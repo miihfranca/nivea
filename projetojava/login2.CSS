@@ -1,0 +1,11 @@
+body{background-image:url(./imagem/pagna2.jpeg); background-position-x:unset; background-size: 34% ;}
+form{
+    margin-left: 35%; 
+}
+h2{
+    text-align: center;
+}
+fieldset {
+    width: 36%;
+    background-color: #8d769a;; 
+} 
